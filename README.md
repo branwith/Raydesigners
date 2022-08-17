@@ -1,7 +1,7 @@
 - 👋 Hi, I’m HASSAN A
 - 👀 I’m interested in Graphic Design
 - 🌱 I’m currently learning Web Design
-- 📫 Reach me instagram.com/rbran.with
+- 📫 Reach me instagram.com/bran.with
 
 <!---
 Raydesigners/Raydesigners is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
